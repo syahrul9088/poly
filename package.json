@@ -1,0 +1,37 @@
+{
+  "name": "pentest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@owstack/btc-mnemonic": "0.0.4",
+    "base64-string": "^1.1.2",
+    "cheerio": "^1.0.0-rc.3",
+    "delay": "^4.3.0",
+    "eth-wallet-js": "^1.4.3",
+    "ethereumjs-wallet": "^0.6.3",
+    "form-data": "^3.0.0",
+    "fs-extra": "^9.0.0",
+    "image-download": "^1.3.2",
+    "image-downloader": "^4.0.1",
+    "md5": "^2.2.1",
+    "node-fetch": "^2.6.0",
+    "qr-image-color": "^3.2.1",
+    "qrcode": "^1.4.4",
+    "random-age": "^1.0.2",
+    "random-country": "^1.0.1",
+    "random-name": "^0.1.2",
+    "randomatic": "^3.1.1",
+    "readline-sync": "^1.4.10",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.5",
+    "send-crypto": "^0.2.14",
+    "simple-bitcoin-wallet": "0.0.9",
+    "ssl-root-cas": "^1.3.1"
+  }
+}
